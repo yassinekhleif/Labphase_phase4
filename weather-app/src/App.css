@@ -1,0 +1,19 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.loading {
+  text-align: center;
+}
+
+/* Additional styling as needed */
